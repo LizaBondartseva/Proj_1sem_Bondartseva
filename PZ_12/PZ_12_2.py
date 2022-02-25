@@ -1,3 +1,4 @@
+# Вариант №3
 from tkinter import *
 
 
