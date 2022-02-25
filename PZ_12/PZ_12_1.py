@@ -1,3 +1,4 @@
+# Вариант №3
 from tkinter import *
 from tkinter.ttk import Combobox
 from tkinter.ttk import Checkbutton
